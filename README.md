@@ -20,12 +20,18 @@ A Passonate Data Science 📊 Lover
 
 
 
-# Social 
+ # 📢 Social 
 
 🕊️
 https://twitter.com/home
 
 💼
 https://www.linkedin.com/in/kuntalchakrabortyindia/
+
+
+# 💻 Tech
+
+
+
 
 
