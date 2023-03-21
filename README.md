@@ -1,64 +1,32 @@
-# Hey There 👋, I'm Kuntal-Chakraborty
-A Passonate Data Science 📊 Lover
-
-🔭 I am learning Data Science: ML, Deep Learning, Computer Vision
-
-👯 I am interested in Data Science/ Business Analysis/ Data Analysis
-
-🤝 I would love to talk about internship and Job opportunities
-
-🌱 I’m looking to learn by working on real time projects and ready to join immediately for any company to learn more new things
-
-💬 I'm currently focusing on ML
-
-⚡ I’m looking to collaborate on any open source platform.
+<h1 align="center">Hi 👋, I'm Kuntal Chakraborty</h1>
+<h3 align="center">A passionate Data Science Lover Indian</h3>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300"/>
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile%20views&color=0e75b6&style=flat" alt="kuntal2022" /> </p>
 
-![image](https://user-images.githubusercontent.com/109715578/212139563-8887c48e-7bc0-4d39-abd9-c135faf936f7.png)
+- 🔭 I’m currently working on **Fertilizer Analysis**
 
+- 🌱 I’m currently learning **Computer Vision**
 
+- 💬 Ask me about **Python, SQL, ML, Tableau**
 
- # 📢 Social 
+- 📫 How to reach me **kuntalmentor@gmail.com**
 
-🕊️
-https://twitter.com/home
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kuntal chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuntal chakraborty" height="30" width="40" /></a>
+<a href="https://kaggle.com/kuntal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kuntal09" height="30" width="40" /></a>
+<a href="https://instagram.com/dataring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dataring" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dataring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dataring" height="30" width="40" /></a>
+</p>
 
-💼
-https://www.linkedin.com/in/kuntalchakrabortyindia/
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuntal2022&show_icons=true&locale=en&layout=compact" alt="kuntal2022" /></p>
 
-# 💻 Tech
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuntal2022&show_icons=true&locale=en" alt="kuntal2022" /></p>
 
-## ML
-
-![five-small-important-observe-ai-machine-learning](https://user-images.githubusercontent.com/109715578/212144287-104479e8-abd6-4f4e-ab62-51cd146b581c.jpg)
-
-## Data Science
-
-
-![What-is-data-science-2](https://user-images.githubusercontent.com/109715578/212144502-c23bd0cb-e7b4-478c-afc3-6379e560f669.jpg)
-
-
-## tableau 
-
-![d9agkn4h_400x400](https://user-images.githubusercontent.com/109715578/212144753-d95aaaf5-1c51-4616-a0eb-2c03c687babe.jpg)
-
-
-## Power BI
-
-![social-default-image](https://user-images.githubusercontent.com/109715578/212144982-74dec435-41dc-4607-9aec-94cd48515d68.png)
-
-
-## Python
-
-
-![Python-logo-notext svg](https://user-images.githubusercontent.com/109715578/212145158-4cca66b7-0066-4254-ba71-009391b9dff0.png)
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal2022&" alt="kuntal2022" /></p>
