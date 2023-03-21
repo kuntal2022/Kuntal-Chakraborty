@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kuntal Chakraborty</h1>
-<h3 align="center">A passionate Data Science Lover Indian</h3>
+<h3 align="center">A passionate Data Science Lover</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300"/>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuntal2022&label=Profile%20views&color=0e75b6&style=flat" alt="kuntal2022" /> </p>
 
-- 🔭 I’m currently working on **Fertilizer Analysis**
+- 🔭 I’m currently working on **Credit Card Fraud Detection ML Project**
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **Python, SQL, ML, Tableau**
+- 💬 Ask me about **Python, SQL, ML, Tableau, Spark, Data Science**
 
 - 📫 How to reach me **kuntalmentor@gmail.com**
 
@@ -32,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal2022&" alt="kuntal2022" /></p>
 
-### Connect with me:
+
 
